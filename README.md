@@ -1,4 +1,5 @@
 # 📜 Quote Generator
+![image](https://github.com/user-attachments/assets/a0b13a7a-c6b5-4242-808c-82b29bbd7eba)
 
 A simple **Quote Generator** app built with **React** that fetches and displays random quotes using a public Quote API.
 
